@@ -3,7 +3,7 @@
  * This is written by Anirudh A V on 22 Dec 2021
  */
 
-public class palindrome {
+public class Palindrome {
   public static void main(String[] args) {
     String str = "malayalam";
     int flag = 0, len = str.length();
