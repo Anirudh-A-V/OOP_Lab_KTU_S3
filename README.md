@@ -50,3 +50,18 @@
 
 Note: All programs are written in Java 18.0.1 and tested on JDK 18.0.1
 Note: In cycles 1, 2, & 5 internal lab exams were conducted and are separetely uploaded in the repository
+
+## How to run
+1. Clone the repository
+2. go to the directory of the program you want to run
+3. Open the terminal in that directory
+4. Type `javac <filename>.java` to compile the program
+5. Then type `java <filename>` to run the program
+6. If you want to run the program with input, type `java <filename> < input.txt` in the terminal
+7. If you want to run the program with output, type `java <filename> > output.txt` in the terminal
+8. If any Issues, feel free to open an issue or contact me at [my email](mailto:anirudh.av02@gmail.com)
+
+## Contributions
+Contributions are welcome. Please open an issue or a pull request to contribute.
+
+Star the repository if you like it. Thanks! :smile:
