@@ -1,3 +1,15 @@
+/**
+ * This program is intended to test the knowledge on classes and objects in java.
+ * 
+ * Question:
+ * To write a Java program to print the area of a rectangle by creating a class
+ * named 'Area' having two methods. The first method named 'setDim' takes
+ * the length and breadth of the rectangle as parameters and the second method
+ * named 'getArea' returns the area of the rectangle. The length and breadth of
+ * a rectangle are entered through the keyboard
+ * 
+ * This program is written by Anirudh A V
+ */
 
 import java.util.Scanner;
 
@@ -26,13 +38,6 @@ public class Area {
 
         ar.setDim(a, b);
         System.out.println("Area is "+ ar.getArea());
-
-        // int ef = 4;
-        // char String =  'i';
-        // System.out.print(ef);
-        // System.out.print(String);
-
-        // char[] ch = new char[5];
 
         sc.close();
     }

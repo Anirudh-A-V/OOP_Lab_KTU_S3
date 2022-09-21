@@ -1,3 +1,12 @@
+/**
+ * This program is intended to test the knowledge on try-catch block in java.
+ * 
+ * Question:
+ * To write a Java program to illustrate the use of multiple catch blocks.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 public class MultipleCatchBlock4 {
     public static void main(String[] args) {
         try {

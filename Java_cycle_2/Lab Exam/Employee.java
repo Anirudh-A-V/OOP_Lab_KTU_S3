@@ -1,3 +1,19 @@
+/**
+ * This program is intended to design an employee management system.
+ * 
+ * Question :
+ * To Write a program by creating an 'Employee' class having the 
+ * following methods and printing the final salary.
+ *      1 - 'getInfo()' which takes the salary and number of hours of
+ *          work per day of the employee as a parameter.
+ *      2 - 'AddSal()' which adds $10 to the salary of the employee if
+ *          it is less than $500.
+ *      3 - 'AddWork()' which adds $5 to the salary of the employee if
+ *          the number of hours of work per day is more than 6 hours
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.Scanner;
 
 public class Employee {
