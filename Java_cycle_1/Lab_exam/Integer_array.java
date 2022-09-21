@@ -1,3 +1,8 @@
+/**
+ * This program is intended to determine the smallest and largest element in an array
+ * This is written by Anirudh A V
+ */
+
 import java.util.Scanner;
 
 public class Integer_array {

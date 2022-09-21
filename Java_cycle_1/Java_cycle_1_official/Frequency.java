@@ -1,5 +1,5 @@
 /**
- * This program is intended to detremine the occurence or frequency of a
+ * This program is intended to determine the occurence or frequency of a
  * character in a given sentence.
  * This is written by Anirudh A V on 22 Dec 2021
  */

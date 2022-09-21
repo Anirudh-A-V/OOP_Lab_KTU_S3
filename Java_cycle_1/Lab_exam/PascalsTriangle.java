@@ -1,3 +1,8 @@
+/**
+ * This program is intended to print a pascal's triangle as per the user's input
+ * This is written by Anirudh A V
+ */
+
 public class PascalsTriangle {
     static int factorial(int n) {
 

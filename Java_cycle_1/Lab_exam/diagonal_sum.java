@@ -1,3 +1,8 @@
+/**
+ * This program is intended to determine the sum of diagonal elements of a matrix
+ * This is written by Anirudh A V
+ */
+
 import java.util.Scanner;
 
 public class diagonal_sum {
