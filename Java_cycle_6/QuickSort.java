@@ -1,3 +1,13 @@
+/**
+ * This program is intended to implement the quick sort algorithm in java.
+ * 
+ * Question:
+ * Write a Java program that implements Quick Sort algorithm for sorting a list of names in 
+ * ascending order
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.Scanner;
 
 class Sort{

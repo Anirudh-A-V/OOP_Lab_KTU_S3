@@ -1,3 +1,13 @@
+/**
+ * This program is intended to illustrate event handling in Java.
+ * Note: This program is not part of the lab cycle, but is intended to boost the understanding of students
+ * 
+ * Question:
+ * Write a Java program that illustrates event handling.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 

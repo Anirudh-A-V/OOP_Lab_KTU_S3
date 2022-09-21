@@ -1,9 +1,21 @@
+/**
+ * This program is intended to implement a doubly linked list.
+ * 
+ * Question:
+ * Write a Java program for the following: 
+ *      A) Create a doubly linked list of elements.
+ *      B) Delete a given element from the above list.
+ *      C) Display the contents of the list after deletion.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.*;
 
 public class Doubly {
 
     public static void main(String[] args) {
-        LinkedList<Integer> list = new LinkedList<Integer>();
+        java.util.LinkedList<Integer> list = new java.util.LinkedList<Integer>();
 
         Scanner sc = new Scanner(System.in);
 

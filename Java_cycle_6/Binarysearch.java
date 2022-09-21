@@ -1,3 +1,12 @@
+/**
+ * This program is intended to implement the binary search algorithm.
+ * 
+ * Question:
+ * Write a Java program that implements the binary search algorithm.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;

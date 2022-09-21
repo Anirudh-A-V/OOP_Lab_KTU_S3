@@ -1,9 +1,20 @@
+/**
+ * This program is intended to implement the heap sort algorithm.
+ * 
+ * Question:
+ * Write a Java program to implement Heap Sort algorithm using array.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.*;
 
-// In heap sort, we first will heapify the entire array. We will start from the bottom most parent (n/2 - 1) and move upwards across all parents. 
+// In heap sort, we first will heapify the entire array. We will start from the bottom most parent (n/2 - 1) 
+// and move upwards across all parents. 
 // (This is only when we heapify the tree for the first time).
-// Then we will obtain the largest element in the entire array. We will swap this element to the last position and will decrease the array size
-// by 1. Then we will heapify the tree again (note this time the new root will be pushed along the largest element branches of the tree).
+// Then we will obtain the largest element in the entire array. We will swap this element to the last 
+// position and will decrease the array size by 1. Then we will heapify the tree again 
+// (note this time the new root will be pushed along the largest element branches of the tree).
 
 public class HeapSort {
     
@@ -49,10 +60,6 @@ public class HeapSort {
             temp = arr[0];
             arr[0] = arr[i];
             arr[i] = temp;
-
-            // for(int x=0; x<n; x++){
-            //     System.out.printf("%d ", arr[x]);
-            // }
             System.out.println();
             heapify(arr, i, 0);
         }
