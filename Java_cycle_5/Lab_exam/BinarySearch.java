@@ -1,5 +1,5 @@
 /**
- * This program isintended to implement the binary search algorithm.
+ * This program is intended to implement the binary search algorithm.
  * 
  * Question:
  * Write a Java program that implements the binary search algorithm
