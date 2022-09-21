@@ -21,7 +21,7 @@ class mycanvas extends JComponent {
     
 }
 
-public class Rectangle extends JFrame {
+public class Draw extends JFrame {
     public static void main(String[] args) {
         JFrame F = new JFrame("Rectangle");
         F.setDefaultCloseOperation(EXIT_ON_CLOSE);
