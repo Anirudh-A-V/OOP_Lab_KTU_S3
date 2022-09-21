@@ -1,6 +1,13 @@
 /**
- * Line_of_Integers
+ * This program is intended to illustrate the use of StringTokenizer class.
+ * 
+ * Question:
+ * Write a Java program that reads a line of integers, and then displays each integer, and the 
+ * sum of all the integers (Use String Tokenizer class of java.util).
+ * 
+ * This program is written by Anirudh A V
  */
+
 import java.util.Scanner;
 import java.util.StringTokenizer;
 

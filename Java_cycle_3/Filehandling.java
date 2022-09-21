@@ -1,3 +1,12 @@
+/**
+ * This program is intended to illustrate the concepts of file handling in java.
+ * 
+ * Question:
+ * Write a file handling program in Java with reader/writer.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.io.*;
 import java.util.Scanner;
 

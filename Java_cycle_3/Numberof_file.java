@@ -1,3 +1,13 @@
+/**
+ * This program is intended to familiarize the user with the concept of file handling and its various methods.
+ * 
+ * Question:
+ * Write a Java program that displays the number of characters, lines and words in a text
+ * file.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.io.*;
 
 public class Numberof_file {

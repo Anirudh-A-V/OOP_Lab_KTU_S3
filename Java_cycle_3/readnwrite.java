@@ -1,3 +1,13 @@
+/**
+ * This program is intended to illustrate the I/O Exception handling.
+ * 
+ * Question:
+ * Write a Java program that read from a file and write to file by handling all 
+ * file related exceptions.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.io.*;
 import java.util.Scanner;
 

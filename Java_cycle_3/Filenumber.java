@@ -1,3 +1,13 @@
+/**
+ * This program is intended to number the lines in a file.
+ * 
+ * Question:
+ * Write a Java program that reads a file and displays the file on the screen, 
+ * with a line number before each line. 
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.io.*;
 
 public class Filenumber {
