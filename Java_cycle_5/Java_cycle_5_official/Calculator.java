@@ -1,3 +1,14 @@
+/**
+ * This program is intended to create a simple calculator using Java Swing.
+ * 
+ * Question:
+ * Write a Java program that works as a simple calculator. Arrange Buttons for digits and 
+ * the + - * % operations properly. Add a text field to display the result. Handle any possible 
+ * exceptions like divide by zero. Use Java Swing.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

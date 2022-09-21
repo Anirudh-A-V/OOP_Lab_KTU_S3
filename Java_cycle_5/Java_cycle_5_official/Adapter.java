@@ -1,3 +1,12 @@
+/**
+ * This program is for familiarizing the concept of Adapter Design Pattern.
+ * 
+ * Question:
+ * Write a Java program for handling key events using Adapter classes
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 

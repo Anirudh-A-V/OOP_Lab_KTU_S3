@@ -1,3 +1,14 @@
+/**
+ * Note: This program was originally intended to familiarise the concept of applet in java.
+ *       However, java applets are deprecated since java 9, this program is now a simple 
+ *       paint program.
+ * 
+ * Question:
+ * Write a Java program that allows the user to draw lines, rectangles and ovals.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import javax.swing.*;
 import java.awt.*;
 

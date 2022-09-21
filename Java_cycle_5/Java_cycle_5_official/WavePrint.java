@@ -1,3 +1,12 @@
+/**
+ * This program is for printing a 2D array in wave form.
+ * 
+ * Question:
+ * Write a Java Swing program to print a wave form on the output screen.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.awt.*;
 import javax.swing.*;
 

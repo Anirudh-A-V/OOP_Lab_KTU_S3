@@ -1,3 +1,12 @@
+/**
+ * This program is for familiarizing with mouse events.
+ * 
+ * Question:
+ * Write a Java program for handling mouse events.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

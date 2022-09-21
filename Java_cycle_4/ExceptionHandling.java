@@ -1,5 +1,5 @@
 /**
- * This program is familarizing with the concept of Exception Handling.
+ * This program is for familarizing with the concept of Exception Handling.
  * 
  * Question:
  * Write a Java program that shows the usage of try, catch, throws and finally.
