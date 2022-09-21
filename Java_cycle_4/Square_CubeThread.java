@@ -1,3 +1,15 @@
+/**
+ * This program is a multithreaded program that displays the square and cube of a number.
+ * 
+ * Question:
+ * Write a Java program that implements a multi-threaded program which has three threads.
+ * First thread generates a random integer every 1 second. If the value is even, second
+ * thread computes the square of the number and prints. If the value is odd the third thread
+ * will print the value of cube of the number.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 import java.util.Random;
 
 class Square implements Runnable {
@@ -73,7 +85,7 @@ class Generate implements Runnable {
 	}
 }
 
-public class Even_oddThread {
+public class Square_CubeThread {
 	public static void main(String args[]) {
 		Generate g1 = new Generate("Thread 1");
 	}

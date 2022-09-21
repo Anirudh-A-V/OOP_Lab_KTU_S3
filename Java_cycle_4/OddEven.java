@@ -1,3 +1,13 @@
+/**
+ * This program is intented to show the usage of Threads in Java.
+ * 
+ * Question:
+ * Write a Java program to create two threads: One for displaying all odd number between 1
+ * and 100 and second thread for displaying all even numbers between 1 and 100.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 class Thread01 implements Runnable  {
 
 	@Override

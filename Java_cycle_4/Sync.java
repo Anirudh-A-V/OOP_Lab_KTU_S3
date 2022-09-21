@@ -1,3 +1,12 @@
+/**
+ * This program is intended to show thread synchronization.
+ * 
+ * Question:
+ * Write a Java program that shows thread synchronization.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 class Main {
     void call(String thread) {
         System.out.printf("[");

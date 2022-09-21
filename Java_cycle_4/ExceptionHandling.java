@@ -1,3 +1,12 @@
+/**
+ * This program is familarizing with the concept of Exception Handling.
+ * 
+ * Question:
+ * Write a Java program that shows the usage of try, catch, throws and finally.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 public class ExceptionHandling {
     public static void main(String[] args) throws ArithmeticException {
         try {

@@ -1,3 +1,12 @@
+/**
+ * This program is intended to show thread priority.
+ * 
+ * Question:
+ * Write a Java program that shows thread priorities.
+ * 
+ * This program is written by Anirudh A V
+ */
+
 class T1 implements Runnable {
 
     @Override

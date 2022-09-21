@@ -1,3 +1,12 @@
+/**
+ * This program is intended to familiarise the concept of user defined exception.
+ * 
+ * Question:
+ * Write a Java program that shows how to create a user-defined exception
+ * 
+ * This program is written by Anirudh A V
+ */
+
 class InvalidAgeException extends Exception {
 
   InvalidAgeException(String str) {
