@@ -1,5 +1,9 @@
 /**
  * This program is intended to demonstrate the concept of garbage collection.
+ * 
+ * Question:
+ * Write a Java program to demonstrate the use of garbage collection.
+ * 
  * This program is written by Anirudh A V on Jan 25 2022.
  */
 

@@ -1,5 +1,16 @@
 /**
  * This program is intended to demonstrate the concept of method overriding.
+ * 
+ * Question:
+ * Write two Java classes Employee and Engineer. Engineer should inherit from Employee
+ * class. Employee class to have two methods display() and calcSalary(). Write a program to
+ * display the engineer salary and to display from Employee class using a single object in-
+ * stantiation (i.e., only one object creation is allowed).
+ *      ->  display() only prints the name of the class and does not return any value. Ex. “ Name
+ *          of class is Employee.”
+ *      ->  calcSalary() in Employee displays “Salary of employee is 10000” and calcSalary() in
+ *          Engineer displays “Salary of employee is 20000.”
+ * 
  * This program is written by Anirudh A V on Jan 25 2022.
  */
 

@@ -1,6 +1,11 @@
 /**
  * This program is intended to calculate the are of different shapes 
  * using method overloading.
+ * 
+ * Question:
+ * Write a Java program to calculate the area of different shapes namely circle, rectangle, 
+ * and triangle using the concept of method overloading.
+ * 
  * This program is written by Anirudh A V on Jan 25 2022.
  */
 
